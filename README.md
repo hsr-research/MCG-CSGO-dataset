@@ -1,5 +1,5 @@
 # MCG-dataset
-Mobile Cloud Gaming Dataset for QoE Assessment considering the game CS:GO. This dataset was collected by my research team and lead to the following publications
+Mobile Cloud Gaming Dataset for QoE assessment considering the game CS:GO. This dataset was collected by my research team and lead to the following publications
 
 "ALTRUIST: A Multi-platform Tool for Conducting QoE Subjective Tests"
 https://ieeexplore.ieee.org/document/10178508
